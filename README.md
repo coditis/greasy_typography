@@ -1,2 +1,5 @@
-# greasy_typography
-a CSS file with clean typography
+# Greasy Typography
+
+a CSS file with clean typography.
+
+Generated using [TypeAnything](https://app.typeanything.io)
