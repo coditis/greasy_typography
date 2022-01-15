@@ -7,7 +7,7 @@ html {
 
 h1 {
     font-family: "IBM Plex Sans", sans-serif;
-    font-size: 32px;
+    font-size: 42px;
     font-weight: 500;
     line-height: 1.20;
     opacity: 1.00;
@@ -20,7 +20,7 @@ h1 {
 
 h2 {
     font-family: "IBM Plex Sans", sans-serif;
-    font-size: 28px;
+    font-size: 32px;
     font-weight: 500;
     line-height: 1.20;
     opacity: 1.00;
@@ -33,7 +33,7 @@ h2 {
 
 h3 {
     font-family: "IBM Plex Sans", sans-serif;
-    font-size: 20px;
+    font-size: 24px;
     font-weight: 400;
     line-height: 1.20;
     opacity: 1.00;
